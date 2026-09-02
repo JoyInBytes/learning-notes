@@ -21,3 +21,5 @@ Welcome to my learning repository—a growing collection of simple, beginner-fri
 ---
 
 > Fueled by lifelong learning, grounded in purpose, and building a future in Data Engineering—one pipeline at a time.
+
+Small documentation update.

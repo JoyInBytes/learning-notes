@@ -2,6 +2,10 @@
 
 Welcome to my learning repository—a growing collection of simple, beginner-friendly notes from my journey into Data Engineering.
 
+## Connected Journal
+
+- [FTW Data Engineering Journal](https://github.com/JoyInBytes/ftw-de-journal) — project documentation, daily learning logs, and progress updates.
+
 ## Learning Pane
 
 | Topic | Documentation |
